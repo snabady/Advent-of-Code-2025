@@ -1,4 +1,5 @@
 import sys
+
 def has_two_idents(value):
     s = str(value)
     length = len(s)
